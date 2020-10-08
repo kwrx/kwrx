@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwrx&layout=compact" alt="kwrx" /></p>
 <h3 align="left">Languages and Tools:</h3>

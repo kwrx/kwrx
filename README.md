@@ -3,7 +3,7 @@ Welcome on my profile!
 
 ## Interests
 * Algorithms
-* Artifical Intelligence
+* Artificial Intelligence
 * Data Science
 * Low Level
 

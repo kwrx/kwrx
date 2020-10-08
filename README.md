@@ -25,3 +25,6 @@ class WhoAmI:
     
 me = WhoAmI(2020)
 ```
+
+## Other stuff
+:link: [My LinkedIn Page](https://www.linkedin.com/in/antonino-natale/) :it: :us:

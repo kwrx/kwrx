@@ -7,10 +7,6 @@ Welcome on my profile!
 * Data Science
 * Low Level
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kwrx&show_icons=true&hide_border=true" alt="kwrx" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwrx&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Makefile,M4,Tex" alt="kwrx" />
-</p>
 
 
 <!--## Programming Languages
@@ -28,6 +24,11 @@ class WhoAmI:
     
 me = WhoAmI(2020)
 ```
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kwrx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="kwrx" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwrx&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Makefile,M4,Tex" alt="kwrx" />
+</p>
 
 ## Other stuff
 :link: [My LinkedIn Page](https://www.linkedin.com/in/antonino-natale/) :it: :us:

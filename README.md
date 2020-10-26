@@ -9,9 +9,8 @@ Welcome on my profile!
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kwrx&show_icons=true&hide_border=true" alt="kwrx" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwrx&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=Makefile,M4,Tex" alt="kwrx" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwrx&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Makefile,M4,Tex" alt="kwrx" />
 </p>
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwrx&layout=compact" alt="kwrx" /></p>-->
 
 
 <!--## Programming Languages

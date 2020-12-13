@@ -31,4 +31,4 @@ me = WhoAmI(2020)
 </p>
 
 ## Other stuff
-:link: [My LinkedIn Page](https://www.linkedin.com/in/antonino-natale/) :it: :us:
+[My LinkedIn Page](https://www.linkedin.com/in/antonino-natale/) :it: :us:

@@ -1,5 +1,5 @@
-# Hi there! 👋
-Welcome on my profile! :shipit:
+# Hi there! 👋 :shipit:
+Welcome on my profile! 
 
 ## Interests
 * Algorithms

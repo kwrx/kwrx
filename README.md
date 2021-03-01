@@ -22,7 +22,7 @@ class WhoAmI:
     # TODO: Get a degree!
     locale    = [ "it-IT", "Rende", "Italy" ]
     
-me = WhoAmI(2020)
+me = WhoAmI(2021)
 ```
 
 <p>

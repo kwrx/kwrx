@@ -31,4 +31,4 @@ me = WhoAmI(2021)
 </p>
 
 ## Other stuff
-[![My LinkedIn Page](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonino-natale/) :it: :us:
+[![My LinkedIn Page](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonino-natale/)

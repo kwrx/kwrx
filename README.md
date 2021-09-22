@@ -19,7 +19,6 @@ class WhoAmI:
     user      = "Antonino Natale"
     status    = "Student"
     education = "Università della Calabria" 
-    # TODO: Get a degree!
     locale    = [ "it-IT", "Rende", "Italy" ]
     
 me = WhoAmI(2021)

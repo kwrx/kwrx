@@ -16,10 +16,10 @@ Welcome on my profile!
 ```python
 class WhoAmI:
   def __init__(self, year):
-    user      = "Antonino Natale"
-    status    = "Student"
-    education = "Università della Calabria" 
-    locale    = [ "it-IT", "Rende", "Italy" ]
+    self.user      = "Antonino Natale"
+    self.status    = "Student"
+    self.education = "Università della Calabria" 
+    self.locale    = [ "it-IT", "Rende", "Italy" ]
     
 me = WhoAmI(2021)
 ```

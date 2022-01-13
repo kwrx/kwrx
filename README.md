@@ -21,7 +21,7 @@ class WhoAmI:
     self.education = "Università della Calabria" 
     self.locale    = [ "it-IT", "Rende", "Italy" ]
     
-me = WhoAmI(2021)
+me = WhoAmI(2022)
 ```
 
 <p>

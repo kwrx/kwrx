@@ -26,7 +26,7 @@ me = WhoAmI(2022)
 
 <p>
   <img height="180em" src="https://github-readme-stats-kwrx.vercel.app/api?username=kwrx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="kwrx" />
-  <img height="180em" src="https://github-readme-stats-kwrx.vercel.app/api/top-langs/?username=kwrx,@bioagrisrls,@nefele-org,@centro-cuore,@mantik-org,@krarty,@unijira&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Makefile,M4,Tex,Objective-C,PLpgSQL,TSQL,SQLPL,Shell,Hack,Perl,Vue,HTML,SCSS,Dockerfile&theme=dark" alt="kwrx" />
+  <img height="180em" src="https://github-readme-stats-kwrx.vercel.app/api/top-langs/?username=kwrx,@bioagrisrls,@nefele-org,@centro-cuore,@mantik-org,@krarty,@unijira&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Makefile,M4,Tex,Objective-C,PLpgSQL,TSQL,SQLPL,Shell,Hack,Perl,Vue,HTML,SCSS,Dockerfile,ShaderLab&theme=dark" alt="kwrx" />
 </p>
 
 ## Get in touch

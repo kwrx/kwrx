@@ -1,5 +1,5 @@
 # Hi there! 👋 
-Welcome on my profile! 
+Welcome on my profile! My name is Antonino, and I am a computer science graduate with a passion for artificial intelligence and low-level programming. I have always been fascinated by the potential of AI to transform the world and improve people's lives, and I am constantly learning and experimenting with new technologies in this field. I also have a strong interest in low-level programming, as I find the inner workings of computer systems to be incredibly interesting and complex. In addition to my technical interests, I am an avid music lover and enjoy staying active through various sports and activities.
 
 ## Interests
 * Algorithms
